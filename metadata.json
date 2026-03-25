@@ -1,0 +1,5 @@
+{
+  "name": "Simple Employee Directory",
+  "description": "A simple application to store and manage employee data using Firebase.",
+  "requestFramePermissions": []
+}
